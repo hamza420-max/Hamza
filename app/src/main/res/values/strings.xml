@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chauhan Mobile Traders</string>
+    <string name="brand_short">CMT</string>
+    <string name="brand_full">Chauhan Mobile Traders</string>
+    <string name="brand_tagline">Complete A-to-Z Mobile Accessories Store, Coin Wallet, Reseller &amp; Owner Panel</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_continue_google">Continue with Google</string>
+    <string name="easypaisa_method">EasyPaisa</string>
+    <string name="easypaisa_default_name">Hamza Akram</string>
+    <string name="easypaisa_default_number">0327-8704237</string>
+</resources>

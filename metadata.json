@@ -1,0 +1,6 @@
+{
+  "name": "Chauhan Mobile Traders",
+  "description": "Complete A-to-Z Mobile Accessories Marketplace, Coin Wallet, Reseller & Owner Panel for Chauhan Mobile Traders (CMT)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
